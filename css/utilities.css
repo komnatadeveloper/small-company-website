@@ -1,0 +1,32 @@
+
+.max-width-1200 {
+  max-width: 1200px ;
+}
+
+.special-offers-news .carousel-inner img {
+  max-height: 300px !important;
+}
+
+/* Product */
+
+.product {
+  border-radius: 0;
+  width: 240px !important;
+}
+
+.product:hover {
+  border-color: #2595e0;
+}
+
+.product img {
+  width: 199px;
+  height: 199px;
+}
+
+
+.product .card-text {
+  height: 54px;
+  overflow: hidden;
+  font-size: 12px;
+  
+}
